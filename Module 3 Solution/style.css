@@ -1,0 +1,44 @@
+*{
+	margin: 0;
+	padding: 0;
+	
+}
+.navbar{
+
+border: none;
+background-color: #405d27;
+color: deeppink;
+}
+body{
+	background-color: #e3eaa7;
+	color: black;
+}
+.glyphicon{
+	font-size: 30px;
+	color:grey; 
+}
+
+.center{
+	width: 90%;
+	background-color: pink;
+
+}
+.container
+{
+	
+	
+	background-color: pink;
+}
+.text-center{
+	font-size: 30px;
+}
+
+h2{
+	text-align: center;
+}
+#myNavbar ul li a {
+	color: pink;
+}
+.navbar-brand{
+font-size: 30px;	
+}
